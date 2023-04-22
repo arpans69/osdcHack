@@ -97,7 +97,7 @@ if(isset($_SESSION['email'])) {
               <div class="container">
                   <div class="row text-center">
                   <div class="col-sm-6">
-                      <h2 style="color:#D4AF37;font-size:25px;">HackAgainstHunger</h2>
+                      <h2 style="color:#D4AF37;font-size:25px;">CodeForFood</h2>
                       <div class="thumbnail" style="background-color:#1B1E23;color:white;border-color:#1B1E23;">
                       <p style="font: normal normal normal 20px arial,sans-serif;">This company is a nonprofit organization with the aim of improving health and wellness around the world.If you're interested in learning more or partnering for a good cause. Please feel free to reach out </p>
                       
